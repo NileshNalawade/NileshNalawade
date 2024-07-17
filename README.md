@@ -22,12 +22,6 @@ July 2022 – August 2023
 - Created MIS reports, structured data, and analyzed data to derive valuable insights.
 - Contributed to initiatives enhancing schools, including sanitation improvement, digital class transitions, water harvesting schemes, and installation of solar panels.
 
-### Data Science Intern, Oasis Infobyte, Mumbai
-February 2024 – March 2024
-- Created a Power BI report analyzing tech layoff trends from 2020 to 2024.
-- Developed sales forecasting and car price prediction models using machine learning.
-- Performed Exploratory Data Analysis (EDA) on employment data to extract insights.
-- Created MIS reports and visualizations using pivot charts and graphs.
 
 ---
 
