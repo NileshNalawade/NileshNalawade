@@ -13,7 +13,6 @@
 Dedicated BSc IT graduate with a passion for extracting actionable insights from data. Proficient in Python, SQL, Excel, and Power BI, possessing a robust skill set to analyze and interpret complex datasets. With a keen eye for detail and commitment to data-driven decision-making, excel in transforming raw information into strategic business intelligence. Eager to leverage my analytical skills and technical proficiency to contribute effectively as a Data Scientist.
 
 ---
-
 ## Experience
 
 ### Program Manager, Yuva Unstoppable, Mumbai
@@ -23,6 +22,10 @@ July 2022 – August 2023
 - Contributed to initiatives enhancing schools, including sanitation improvement, digital class transitions, water harvesting schemes, and installation of solar panels.
 
 
+### MIS Executive, ZEPTO, Mumbai
+June 2024 – Now
+- Automated Daily Reports & Data Visualization: Streamlined reporting processes by automating daily reports and creating clear data visualizations for stakeholders.
+- SQL Data Extraction & Business Intelligence: Leveraged SQL queries to extract data from databases and develop insightful business intelligence reports.
 ---
 
 ## Skills
