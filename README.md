@@ -1,20 +1,29 @@
-# NILESH NALAWADE
+<!-- ====================================================== -->
+<!--                 NILESH NALAWADE                       -->
+<!--          PERSONAL DEVELOPER PORTFOLIO                 -->
+<!-- ====================================================== -->
 
-### Turning Data into Intelligence. Automation into Impact.
+<h1 align="center">NILESH NALAWADE</h1>
+
+<h3 align="center">
+  DATA × AUTOMATION × ARTIFICIAL INTELLIGENCE
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Strategic+Data+Analyst;Automation+%26+BI+Developer;AI+Integration+Enthusiast;Building+Smarter+Business+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Strategic+Data+Analyst;Building+Intelligent+Business+Systems;Automating+the+Repetitive;Turning+Data+Into+Decisions" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/nilesh-nalawade614">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:Nilesh.nalawade614@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/NileshNalawade">
-    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -24,96 +33,107 @@
 
 ---
 
-## `01` / THE INTRODUCTION
+## 01 / THE THINKING
 
-I'm a Strategic Data Analyst focused on building systems that make businesses smarter, faster, and more data-driven.
+**I don't just work with data. I build systems around it.**
 
-My work sits at the intersection of **Data Analytics, Business Intelligence, Process Automation, and Artificial Intelligence.**
+I'm a Strategic Data Analyst interested in solving business problems through data analytics, intelligent automation, and AI integration.
 
-I don't just analyze data. I build the pipelines, automation workflows, centralized systems, and dashboards that turn raw information into business intelligence.
+My work focuses on transforming fragmented information and repetitive workflows into structured, automated, and measurable business systems.
 
-From automating 10K+ weekly records to integrating AI into client communication workflows, I enjoy solving operational problems through technology.
+Whether it's engineering an ETL pipeline, developing a centralized CRM, integrating AI APIs, or creating executive dashboards, I enjoy connecting technology with real-world business requirements.
 
-**My philosophy:**
-
-> If a process repeats, it deserves to be optimized.  
-> If data exists, it deserves to generate insights.  
-> If technology can simplify work, let's build it.
+> "The real value of data isn't in collecting it. It's in what you build with it."
 
 ---
 
-## `02` / IMPACT IN NUMBERS
+## 02 / IMPACT IN NUMBERS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/10K%2B-Weekly_Records_Processed-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/50%25-Less_Manual_Data_Prep-16A34A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/20%2B-Active_Accounts_Monitored-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/10%25-Lead_Conversion_Improvement-EA580C?style=for-the-badge"/>
+  <table width="100%">
+    <tr>
+      <td align="center" width="25%">
+        <h1>10K+</h1>
+        <sub>WEEKLY RECORDS<br/>PROCESSED</sub>
+      </td>
+      <td align="center" width="25%">
+        <h1>50%</h1>
+        <sub>LESS MANUAL<br/>DATA PREPARATION</sub>
+      </td>
+      <td align="center" width="25%">
+        <h1>20+</h1>
+        <sub>ACTIVE ACCOUNTS<br/>MONITORED</sub>
+      </td>
+      <td align="center" width="25%">
+        <h1>10%</h1>
+        <sub>LEAD CONVERSION<br/>IMPROVEMENT</sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
-| Achievement | Business Impact |
-|:---|:---|
-| Automated reporting pipelines | 10K+ weekly records |
-| Process optimization | 50% reduction in manual preparation time |
-| Executive BI dashboards | 20+ active accounts |
-| Acquisition funnel analysis | 10% lead conversion improvement |
-| Workforce monitoring | 85% roster adherence at Zepto |
-| AI-powered communication workflows | 10,000+ monthly client interactions |
+<p align="center">
+  <sub>
+    MEASURABLE RESULTS &nbsp; · &nbsp;
+    PROCESS OPTIMIZATION &nbsp; · &nbsp;
+    BUSINESS INTELLIGENCE
+  </sub>
+</p>
 
 ---
 
-## `03` / WHAT I BUILD
+## 03 / WHAT I BUILD
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Business Intelligence
+### ◈ DATA INTELLIGENCE
 
-- Executive dashboards
-- Operational KPI tracking
-- Power BI reporting
-- Looker Studio analytics
-- Data storytelling
-- Performance monitoring
+- Business Intelligence
+- SQL Data Analysis
+- ETL Pipelines
+- Data Transformation
+- Statistical Analysis
+- Executive Dashboards
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Intelligent Automation
+### ◈ INTELLIGENT AUTOMATION
 
-- Google Apps Script automation
-- Automated reporting pipelines
-- ETL workflows
-- WhatsApp Business API
-- Cross-department integrations
-- Workflow optimization
+- Google Apps Script
+- Automated Reporting
+- Workflow Automation
+- API Integrations
+- WhatsApp Automation
+- Process Optimization
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Integration
+### ◈ ARTIFICIAL INTELLIGENCE
 
-- Gemini API integration
-- Claude API integration
-- AI-powered text categorization
-- Sentiment analysis
-- Prompt engineering
-- LLM-based workflows
+- Gemini API
+- Claude API
+- LLM Integrations
+- Sentiment Analysis
+- Text Categorization
+- Prompt Engineering
 
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Data Architecture
+### ◈ BUSINESS SYSTEMS
 
-- Relational data modeling
-- Custom CRM architecture
-- SQL data extraction
-- Centralized data systems
-- Database management
-- Data governance
+- Custom CRM Architecture
+- Relational Data Modeling
+- Database Management
+- Centralized Data Systems
+- KPI Monitoring
+- Data Governance
 
 </td>
 </tr>
@@ -121,124 +141,145 @@ From automating 10K+ weekly records to integrating AI into client communication 
 
 ---
 
-## `04` / TECHNOLOGY STACK
+## 04 / TECHNOLOGY ECOSYSTEM
 
-### Programming & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,javascript,html,css"/>
+<p align="center">
+  <sub>TOOLS I USE TO TURN IDEAS INTO WORKING SYSTEMS</sub>
 </p>
 
-### Analytics & Visualization
+### PROGRAMMING & DEVELOPMENT
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,javascript,html,css" />
 </p>
 
-### Automation & AI
+### BUSINESS INTELLIGENCE & ANALYTICS
 
-<p>
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-### Database & Productivity
+### AUTOMATION & AI
 
-<p>
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+### DATABASES & PRODUCTIVITY
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
 
-## `05` / FEATURED PROJECTS
+## 05 / SELECTED PROJECTS
 
-### 01. Enterprise CRM & Relational Data Architecture
+<p align="center">
+  <sub>BUILDING SOLUTIONS THAT CONNECT DATA WITH BUSINESS OPERATIONS</sub>
+</p>
 
-**Category:** Business Systems | Database Architecture | Automation
+### 01. ENTERPRISE CRM & RELATIONAL DATA ARCHITECTURE
 
-Designed the end-to-end data architecture and business logic for a custom CRM web portal intended to replace fragmented Google Sheets tracking systems.
+<sub>BUSINESS SYSTEMS / DATABASE ARCHITECTURE / AUTOMATION</sub>
 
-**Key contributions:**
+Designed the end-to-end data architecture and business logic for a centralized CRM web portal to replace fragmented manual tracking systems.
+
+**What I worked on:**
+
 - Designed centralized relational data structures.
-- Established data governance and ETL procedures.
-- Developed business logic for pipeline management.
-- Designed workflows accessible to non-technical users.
+- Developed data governance and ETL procedures.
+- Established business logic for pipeline management.
+- Structured workflows for non-technical users.
 - Unified operational tracking and analytics.
 
-**Tech:** Google Sheets · Google Apps Script · SQL · Data Modeling
+**Technology:** Google Sheets · Google Apps Script · SQL · Data Modeling
 
 ---
 
-### 02. Full-Stack Operational Analytics KPI WebApp
+### 02. FULL-STACK OPERATIONAL ANALYTICS KPI WEBAPP
 
-**Category:** Business Intelligence | Web Development | Automation
+<sub>BUSINESS INTELLIGENCE / WEB DEVELOPMENT / AUTOMATION</sub>
 
-Engineered a lightweight analytics web application functioning as a bi-directional reporting dashboard.
+Engineered a lightweight analytics application that functions as a bi-directional operational reporting dashboard.
 
-**Key contributions:**
-- Developed real-time operational KPI monitoring.
+**What I worked on:**
+
+- Developed real-time business KPI monitoring.
 - Integrated Google Sheets API.
 - Implemented direct-to-database write-back functionality.
 - Reduced reporting latency.
 - Minimized repetitive manual data entry.
 
-**Tech:** Google Apps Script · HTML · Google Sheets API · JavaScript
+**Technology:** Google Apps Script · HTML · JavaScript · Google Sheets API
 
 ---
 
-### 03. AI-Powered Client Communication Automation
+### 03. AI-POWERED CLIENT COMMUNICATION AUTOMATION
 
-**Category:** Artificial Intelligence | Process Automation
+<sub>ARTIFICIAL INTELLIGENCE / API INTEGRATION / AUTOMATION</sub>
 
-Integrated AI capabilities into daily business operations to automate text categorization and sentiment analysis across client communication workflows.
+Integrated AI capabilities into operational workflows to automate text categorization and sentiment analysis across client communications.
 
-**Key contributions:**
+**What I worked on:**
+
 - Integrated Gemini and Claude APIs.
 - Connected WhatsApp Business API.
-- Automated classification of client interactions.
-- Processed 10,000+ monthly client interactions.
+- Automated text categorization.
+- Implemented sentiment analysis workflows.
+- Supported processing of 10,000+ monthly client interactions.
 
-**Tech:** Gemini API · Claude API · WhatsApp Business API · Google Apps Script
+**Technology:** Gemini API · Claude API · WhatsApp Business API · Apps Script
 
 ---
 
-### 04. Operational Workforce Analytics – Zepto
+### 04. OPERATIONAL WORKFORCE ANALYTICS – ZEPTO
 
-**Category:** SQL Analytics | Workforce Management | Reporting
+<sub>SQL ANALYTICS / WORKFORCE MANAGEMENT / MIS</sub>
 
-Developed data-driven monitoring frameworks for workforce operations and operational performance.
+Developed data-driven monitoring frameworks to improve operational visibility and workforce management.
 
-**Key contributions:**
-- Engineered SQL queries for transactional data analysis.
-- Developed bi-weekly NPS reports.
-- Created workforce and roster monitoring tools.
+**What I worked on:**
+
+- Engineered complex SQL queries.
+- Developed bi-weekly NPS analytical reports.
+- Built automated roster monitoring frameworks.
 - Achieved 85% roster adherence.
-- Developed Zepto Cafe Matrix reporting.
+- Developed the Zepto Cafe Matrix.
 
-**Tech:** SQL · Data Analysis · MIS Reporting · Operational Analytics
+**Technology:** SQL · Data Analysis · MIS Reporting · Operational Analytics
 
 ---
 
-## `06` / HOW I SOLVE PROBLEMS
+## 06 / HOW I THINK IN SYSTEMS
+
+<p align="center">
+  <sub>FROM A BUSINESS PROBLEM TO A MEASURABLE OUTCOME</sub>
+</p>
 
 ```mermaid
 flowchart TD
-    A["BUSINESS PROBLEM"] --> B["DATA COLLECTION"]
-    B --> C["DATA CLEANING & ETL"]
-    C --> D["DATA MODELING"]
-    D --> E["AUTOMATION & AI"]
-    E --> F["BUSINESS INTELLIGENCE"]
-    F --> G["ACTIONABLE INSIGHTS"]
-    G --> H["MEASURABLE IMPACT"]
+    A["01 · BUSINESS PROBLEM"] --> B["02 · DATA COLLECTION"]
+    B --> C["03 · DATA CLEANING & ETL"]
+    C --> D["04 · DATA ARCHITECTURE"]
+    D --> E["05 · AUTOMATION & AI"]
+    E --> F["06 · BUSINESS INTELLIGENCE"]
+    F --> G["07 · ACTIONABLE INSIGHTS"]
+    G --> H["08 · MEASURABLE IMPACT"]
 
-    style A fill:#334155,color:#fff
-    style E fill:#2563eb,color:#fff
-    style F fill:#0f766e,color:#fff
-    style H fill:#15803d,color:#fff
+    style A fill:#172554,color:#fff,stroke:#3B82F6
+    style B fill:#1E293B,color:#fff,stroke:#475569
+    style C fill:#1E293B,color:#fff,stroke:#475569
+    style D fill:#1E293B,color:#fff,stroke:#475569
+    style E fill:#164E63,color:#fff,stroke:#06B6D4
+    style F fill:#164E63,color:#fff,stroke:#06B6D4
+    style G fill:#14532D,color:#fff,stroke:#22C55E
+    style H fill:#14532D,color:#fff,stroke:#22C55E
